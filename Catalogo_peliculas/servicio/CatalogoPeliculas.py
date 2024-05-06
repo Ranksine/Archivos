@@ -1,4 +1,4 @@
-from dominio import Pelicula
+from dominio.Pelicula import Pelicula
 import os
 class CatalogoPeliculas:
 
